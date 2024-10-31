@@ -22,10 +22,3 @@ const io = new Server(servidorHttp);
 
 export default io;
 
-  // io.on('connection', (socket) => {
-  //   socket.on('mensagem', (msg) => {
-  //       console.log("Mensagem recebida do front-end: ", msg);
-        
-  //   })
-  // })
-
